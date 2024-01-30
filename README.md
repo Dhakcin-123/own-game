@@ -1,1 +1,1 @@
-# own-game
+# OwnGame
